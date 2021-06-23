@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Broadways-Project/static/css/main.0f1c5326.chunk.css",
+    "main.js": "/Broadways-Project/static/js/main.576506ab.chunk.js",
+    "main.js.map": "/Broadways-Project/static/js/main.576506ab.chunk.js.map",
+    "runtime-main.js": "/Broadways-Project/static/js/runtime-main.98e1e5ce.js",
+    "runtime-main.js.map": "/Broadways-Project/static/js/runtime-main.98e1e5ce.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Broadways-Project/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8401177a.chunk.js": "/Broadways-Project/static/js/2.8401177a.chunk.js",
+    "static/js/2.8401177a.chunk.js.map": "/Broadways-Project/static/js/2.8401177a.chunk.js.map",
+    "static/js/3.ae50604c.chunk.js": "/Broadways-Project/static/js/3.ae50604c.chunk.js",
+    "static/js/3.ae50604c.chunk.js.map": "/Broadways-Project/static/js/3.ae50604c.chunk.js.map",
+    "index.html": "/Broadways-Project/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Broadways-Project/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0f1c5326.chunk.css.map": "/Broadways-Project/static/css/main.0f1c5326.chunk.css.map",
+    "static/js/2.8401177a.chunk.js.LICENSE.txt": "/Broadways-Project/static/js/2.8401177a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e1e5ce.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8401177a.chunk.js",
+    "static/css/main.0f1c5326.chunk.css",
+    "static/js/main.576506ab.chunk.js"
+  ]
+}
